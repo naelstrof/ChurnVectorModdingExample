@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca7c2a5183c6103429b9d13fd979b207, type: 3}
+  m_Name: PlayerWithAHatMod
+  m_EditorClassIdentifier: 
+  steamWorkshopID: 3168572999
+  visibility: 0
+  title: Agent 789 with a hat.
+  description: Makes the bunny osha compliant.
+  changeNotes: 
+  previewIcon: {fileID: 21300000, guid: ef61deae3680c4a4f9194c5a2c463e65, type: 3}
+  tags: 1
+  language: 0
+  levels: []
+  replacementCharacters:
+  - existingCharacter:
+      m_AssetGUID: cb8dd3adce5c40544b99b2d5fd0d49f9
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    replacementCharacter:
+      m_AssetGUID: 90a41eed67af8244992dce17ffd6d8d2
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3471c5a31b0b44d28dea21fb231b107, type: 3}
+  m_Name: ExternalCatalog
+  m_EditorClassIdentifier: 
+  assetGroups:
+  - {fileID: 11400000, guid: 1caa0dadae207494f87c33097e9a4646, type: 2}
+  buildPath:
+    m_Id: 57783aa40543ccd4ba899d8a06580051
+  runtimeLoadPath:
+    m_Id: aa5e3913ee0e93a429d15ecdefa13dde
+  catalogName: PlayerWithAHatMod

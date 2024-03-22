@@ -1,0 +1,3 @@
+[submodule "Packages/ChurnVectorSDK"]
+	path = Packages/ChurnVectorSDK
+	url = https://github.com/naelstrof/ChurnVectorSDK.git

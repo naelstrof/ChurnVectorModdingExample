@@ -1,0 +1,169 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Locales
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Locales
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f7437703d2026dd4a8d95b822844ab02
+  m_SerializeEntries:
+  - m_GUID: 594d3e8ef70aed34594858474ec491d7
+    m_Address: French (fr)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c66416363ebe8d849a18951b9767c751
+    m_Address: Dutch (nl)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2c789bf6dca59594dac982559cd611af
+    m_Address: Norwegian (no)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7ce5e4e474dca3a489c2e0abb79d683b
+    m_Address: Korean (ko)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: beaaf08694c9234478502ec44e041259
+    m_Address: Romanian (ro)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 659a892dfd208f2439709b1fa597d863
+    m_Address: Ukrainian (uk)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 512e735cd4a49594c8754ce7b2b49e5a
+    m_Address: Italian (it)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 13b91bef94056ab4ab589edb8681bd45
+    m_Address: English (en)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 598eab80e6d1e6542b7fec51342b4e81
+    m_Address: Hungarian (hu)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a6addc5edda727f439ad6298dd4a7bbc
+    m_Address: Vietnamese (vi)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e8b5e311e52576b4687c4952fb51a2dc
+    m_Address: Thai (th)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 465357dd822b26344b3b7c1c34d4518e
+    m_Address: Finnish (fi)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2e80ae74df982d94ea23913f4d92c763
+    m_Address: Bulgarian (bg)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ce7b25e10073a784c8cfee6a5fc4abe6
+    m_Address: Chinese (Simplified) (zh)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c826b5a77cb16f44fb3106c2992c4f04
+    m_Address: Arabic (ar)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0c806398ecb9b3c40acb6d8a3abef64d
+    m_Address: Danish (da)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d2c30528ca03f14468ee17c192bdcb18
+    m_Address: Greek (el)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2f5c7bdf5bf375c4ab4f009cc6b39a76
+    m_Address: Polish (pl)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3c7e0abc043ba004aa83d30de39cd6fc
+    m_Address: Russian (ru)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ac89b0677abef4342a5886c95b2fa902
+    m_Address: Portuguese (pt)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fce0defe502d58a4989a86c743407a20
+    m_Address: Spanish (es)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1fb3b593a817ec44b80e52ab46baf9a0
+    m_Address: Czech (cs)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ce3b5b892dcaddc49ba985d57544ee09
+    m_Address: Japanese (ja)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d399c9612696bea46931e90397152b7b
+    m_Address: German (de)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: d6f15c56fb6f6084da6987e06d36c051, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: e2b1527049fcfca42bce4d64e29e4d5f, type: 2}
+    - {fileID: 11400000, guid: e1bc1610ef23f5f4b96f850109ca542b, type: 2}

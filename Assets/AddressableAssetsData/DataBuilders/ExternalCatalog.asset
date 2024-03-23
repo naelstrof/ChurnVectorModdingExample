@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: ExternalCatalog
   m_EditorClassIdentifier: 
   assetGroups:
-  - {fileID: 11400000, guid: 1caa0dadae207494f87c33097e9a4646, type: 2}
+  - {fileID: 11400000, guid: 2559b061cf74a3e408b8d90af00c9250, type: 2}
   buildPath:
     m_Id: 57783aa40543ccd4ba899d8a06580051
   runtimeLoadPath:

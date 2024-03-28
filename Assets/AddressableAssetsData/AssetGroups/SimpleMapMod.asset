@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: SimpleMapMod
+  m_EditorClassIdentifier: 
+  m_GroupName: SimpleMapMod
+  m_Data:
+    m_SerializedData: []
+  m_GUID: ea467353effd05843bc2f2167761950b
+  m_SerializeEntries:
+  - m_GUID: cdace73fdff26a34cb3a64a81d71989f
+    m_Address: Assets/SimpleMapMod/SimpleMap.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ChurnVectorLevel
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8124e5870f4fd4c779e7a5f994e84ad1
+    m_Address: Assets/ExampleScene.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b364e1da0b789f443a84355b459c124f
+    m_Address: Assets/SimpleMapMod/BasicModdedCollection Shared Data.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9be054634e809a54899a871db740bf5f
+    m_Address: BasicModdedCollection_en
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Locale-en
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d6f15c56fb6f6084da6987e06d36c051, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ac050bf2110667442a808d8e6a00dab7, type: 2}
+    - {fileID: 11400000, guid: 06e614471e2b3b34f981f0e22d3394a4, type: 2}

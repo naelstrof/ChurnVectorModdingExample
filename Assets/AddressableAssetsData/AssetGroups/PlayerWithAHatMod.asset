@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: PlayerWithAHatMod
+  m_EditorClassIdentifier: 
+  m_GroupName: PlayerWithAHatMod
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 29e06b147bcd0224bbd69873b245b364
+  m_SerializeEntries:
+  - m_GUID: 90a41eed67af8244992dce17ffd6d8d2
+    m_Address: Assets/PlayerWithAHatMod/PlayerWithAHat.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ChurnVectorCharacter
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d6f15c56fb6f6084da6987e06d36c051, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: e5907573c0ea5c44abac42445661f37e, type: 2}
+    - {fileID: 11400000, guid: b9a81e424c2d36a4690808a49996a37a, type: 2}

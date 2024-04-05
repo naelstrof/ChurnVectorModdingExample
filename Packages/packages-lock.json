@@ -17,7 +17,7 @@
         "com.naelstrof.jigglephysics": "7.1.4",
         "com.naelstrof.skinnedmeshdecals": "7.0.0",
         "com.naelstrof.extensions": "0.0.1",
-        "com.naelstrof-raliv.dynamic-penetration-for-games": "1.1.4",
+        "com.naelstrof-raliv.dynamic-penetration-for-games": "2.0.0",
         "com.naelstrof.unityscriptablesettings": "2.4.5",
         "com.naelstrof.easing": "0.0.1",
         "com.naelstrof.projectiles": "1.0.0",
@@ -40,14 +40,14 @@
       "hash": "05efde50014f31dd73d0097d106326b70d685af7"
     },
     "com.naelstrof-raliv.dynamic-penetration-for-games": {
-      "version": "https://github.com/naelstrof/DynamicPenetrationForGames.git#v1.1.4",
+      "version": "https://github.com/naelstrof/DynamicPenetrationForGames.git#v2.1.0",
       "depth": 0,
       "source": "git",
       "dependencies": {
         "com.naelstrof.splines": "2.0.5",
         "com.naelstrof.jigglephysics": "7.1.4"
       },
-      "hash": "39d8c86603847cb6c6f573cb51b3846e4e95b30c"
+      "hash": "669d5c945c904014fd53bdb0d67f1cae1c389c91"
     },
     "com.naelstrof.easing": {
       "version": "https://github.com/naelstrof/com.naelstrof.easing.git#v0.0.1",

@@ -17,7 +17,7 @@
         "com.naelstrof.jigglephysics": "7.1.4",
         "com.naelstrof.skinnedmeshdecals": "7.0.0",
         "com.naelstrof.extensions": "0.0.1",
-        "com.naelstrof-raliv.dynamic-penetration-for-games": "2.0.0",
+        "com.naelstrof-raliv.dynamic-penetration-for-games": "2.1.4",
         "com.naelstrof.unityscriptablesettings": "2.4.5",
         "com.naelstrof.easing": "0.0.1",
         "com.naelstrof.projectiles": "1.0.0",
@@ -63,6 +63,13 @@
       "dependencies": {},
       "hash": "fa0e843b05bffa0333b30f20018417b55cdd13c7"
     },
+    "com.naelstrof.flocking": {
+      "version": "https://github.com/naelstrof/UnityFlocking.git#upm",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "290ccb3c5392aa4c672f2005568771bfc2e2a923"
+    },
     "com.naelstrof.inflatable": {
       "version": "https://github.com/naelstrof/com.naelstrof.inflatable.git#v0.0.1",
       "depth": 0,
@@ -81,7 +88,7 @@
       "hash": "7506229368ee27dbf507a13e23f89b0778ddc2c8"
     },
     "com.naelstrof.orbitcam": {
-      "version": "https://github.com/naelstrof/com.naelstrof.orbitcam.git#v0.0.2",
+      "version": "https://github.com/naelstrof/com.naelstrof.orbitcam.git#v0.1.1",
       "depth": 0,
       "source": "git",
       "dependencies": {
@@ -90,7 +97,7 @@
         "com.naelstrof.unityscriptablesettings": "2.4.5",
         "com.unity.inputsystem": "1.7.0"
       },
-      "hash": "82dfd3a57f80eaa7d7e8403f2457b6d4da60e1e5"
+      "hash": "a89f8e2c11e80b74f0a3d14d4e9815e71686ad8f"
     },
     "com.naelstrof.projectiles": {
       "version": "https://github.com/naelstrof/com.naelstrof.projectiles.git#v1.0.0",

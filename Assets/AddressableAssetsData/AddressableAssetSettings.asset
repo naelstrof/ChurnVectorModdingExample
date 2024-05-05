@@ -15,7 +15,7 @@ MonoBehaviour:
   m_DefaultGroup: d4f19c8526b35754195beb82c46e5267
   m_currentHash:
     serializedVersion: 2
-    Hash: 7816a0b22ed9975e1b804dc721722147
+    Hash: f4dd131a2c3c9155d1302a11963b5a15
   m_OptimizeCatalogSize: 0
   m_BuildRemoteCatalog: 1
   m_BundleLocalCatalog: 0
@@ -98,7 +98,7 @@ MonoBehaviour:
       - m_Id: 844a40117c8f61844a621b936e1dc210
         m_Value: http://[PrivateIpAddress]:[HostingServicePort]
       - m_Id: 57783aa40543ccd4ba899d8a06580051
-        m_Value: '[UnityEngine.Application.persistentDataPath]/mods/SimpleMapMod/[BuildTarget]'
+        m_Value: '[UnityEngine.Application.persistentDataPath]/mods/PlayerWithAHatMod/[BuildTarget]'
       - m_Id: aa5e3913ee0e93a429d15ecdefa13dde
         m_Value: '{fe63e628-ea59-46e9-8411-850a7865c194}/[BuildTarget]'
     m_ProfileEntryNames:

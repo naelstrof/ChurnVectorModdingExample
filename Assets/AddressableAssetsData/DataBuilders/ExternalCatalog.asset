@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: ExternalCatalog
   m_EditorClassIdentifier: 
   assetGroups:
-  - {fileID: 11400000, guid: ba41ba5f97f56b245ab9bece70be4939, type: 2}
+  - {fileID: 11400000, guid: 03b1fe36a89234148b3b6e3ee0c48c33, type: 2}
   buildPath:
     m_Id: 57783aa40543ccd4ba899d8a06580051
   runtimeLoadPath:
     m_Id: aa5e3913ee0e93a429d15ecdefa13dde
-  catalogName: SimpleMapMod
+  catalogName: PlayerWithAHatMod

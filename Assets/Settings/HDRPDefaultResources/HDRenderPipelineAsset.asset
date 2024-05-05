@@ -38,7 +38,7 @@ MonoBehaviour:
     customBufferFormat: 12
     supportedLitShaderMode: 2
     planarReflectionResolution:
-      m_Values: 000100000004000000080000
+      m_Values: 000100000004000000040000
       m_SchemaId:
         m_Id: With3Levels
     cubeReflectionResolution:
@@ -53,7 +53,7 @@ MonoBehaviour:
     supportMotionVectors: 1
     supportDataDrivenLensFlare: 1
     supportRuntimeAOVAPI: 0
-    supportDitheringCrossFade: 1
+    supportDitheringCrossFade: 0
     supportTerrainHole: 0
     lightProbeSystem: 0
     probeVolumeMemoryBudget: 1024
@@ -85,7 +85,7 @@ MonoBehaviour:
       maxDirectionalLightsOnScreen: 16
       maxPunctualLightsOnScreen: 512
       maxAreaLightsOnScreen: 64
-      maxCubeReflectionOnScreen: 48
+      maxCubeReflectionOnScreen: 64
       maxPlanarReflectionOnScreen: 16
       maxDecalsOnScreen: 512
       maxLightsPerClusterCell: 8
@@ -152,6 +152,7 @@ MonoBehaviour:
       forcedPercentage: 100
       lowResTransparencyMinimumThreshold: 0
       rayTracingHalfResThreshold: 50
+      lowResSSGIMinimumThreshold: 0
     lowresTransparentSettings:
       enabled: 1
       checkerboardDepthBuffer: 1
@@ -160,7 +161,7 @@ MonoBehaviour:
       singlePass: 1
       occlusionMesh: 1
       cameraJitter: 0
-      allowMotionBlur: 0
+      allowMotionBlur: 1
     postProcessQualitySettings:
       NearBlurSampleCount: 030000000500000008000000
       NearBlurMaxRadius:
@@ -193,8 +194,8 @@ MonoBehaviour:
     lodBias:
       m_Values:
       - 1
-      - 1
-      - 1
+      - 2
+      - 2
       m_SchemaId:
         m_Id: With3Levels
     lightingQualitySettings:

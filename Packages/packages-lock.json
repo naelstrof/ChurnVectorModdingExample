@@ -40,14 +40,14 @@
       "hash": "05efde50014f31dd73d0097d106326b70d685af7"
     },
     "com.naelstrof-raliv.dynamic-penetration-for-games": {
-      "version": "https://github.com/naelstrof/DynamicPenetrationForGames.git#v2.1.0",
+      "version": "https://github.com/naelstrof/DynamicPenetrationForGames.git#v2.1.5",
       "depth": 0,
       "source": "git",
       "dependencies": {
         "com.naelstrof.splines": "2.0.5",
         "com.naelstrof.jigglephysics": "7.1.4"
       },
-      "hash": "669d5c945c904014fd53bdb0d67f1cae1c389c91"
+      "hash": "308256565af2c9ebc4df8ec1558d6d93d2bc3ee2"
     },
     "com.naelstrof.easing": {
       "version": "https://github.com/naelstrof/com.naelstrof.easing.git#v0.0.1",

@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.mackysoft.serializereference-extensions": "https://github.com/mackysoft/Unity-SerializeReferenceExtensions.git?path=Assets/MackySoft/MackySoft.SerializeReferenceExtensions#1.3.0",
-    "com.naelstrof-raliv.dynamic-penetration-for-games": "https://github.com/naelstrof/DynamicPenetrationForGames.git#v2.1.0",
+    "com.naelstrof-raliv.dynamic-penetration-for-games": "https://github.com/naelstrof/DynamicPenetrationForGames.git#v2.1.5",
     "com.naelstrof.easing": "https://github.com/naelstrof/com.naelstrof.easing.git#v0.0.1",
     "com.naelstrof.extensions": "https://github.com/naelstrof/com.naelstrof.extensions.git#v0.0.1",
     "com.naelstrof.flocking": "https://github.com/naelstrof/UnityFlocking.git#upm",

@@ -17,7 +17,7 @@
         "com.naelstrof.jigglephysics": "7.1.4",
         "com.naelstrof.skinnedmeshdecals": "7.0.0",
         "com.naelstrof.extensions": "0.0.1",
-        "com.naelstrof-raliv.dynamic-penetration-for-games": "2.1.4",
+        "com.naelstrof-raliv.dynamic-penetration-for-games": "2.1.6",
         "com.naelstrof.unityscriptablesettings": "2.4.5",
         "com.naelstrof.easing": "0.0.1",
         "com.naelstrof.projectiles": "1.0.0",
@@ -40,14 +40,14 @@
       "hash": "05efde50014f31dd73d0097d106326b70d685af7"
     },
     "com.naelstrof-raliv.dynamic-penetration-for-games": {
-      "version": "https://github.com/naelstrof/DynamicPenetrationForGames.git#v2.1.5",
+      "version": "https://github.com/naelstrof/DynamicPenetrationForGames.git#v2.1.6",
       "depth": 0,
       "source": "git",
       "dependencies": {
         "com.naelstrof.splines": "2.0.5",
         "com.naelstrof.jigglephysics": "7.1.4"
       },
-      "hash": "308256565af2c9ebc4df8ec1558d6d93d2bc3ee2"
+      "hash": "9eb978567c148470068f7a0b7e54d2f8385a92a4"
     },
     "com.naelstrof.easing": {
       "version": "https://github.com/naelstrof/com.naelstrof.easing.git#v0.0.1",
@@ -64,11 +64,11 @@
       "hash": "fa0e843b05bffa0333b30f20018417b55cdd13c7"
     },
     "com.naelstrof.flocking": {
-      "version": "https://github.com/naelstrof/UnityFlocking.git#upm",
+      "version": "https://github.com/naelstrof/UnityFlocking.git#v0.0.8",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "290ccb3c5392aa4c672f2005568771bfc2e2a923"
+      "hash": "7fd9598b2c16d2d8f2dd8b7873c40e1d4e389013"
     },
     "com.naelstrof.inflatable": {
       "version": "https://github.com/naelstrof/com.naelstrof.inflatable.git#v0.0.1",

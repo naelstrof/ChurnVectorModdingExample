@@ -81,11 +81,11 @@
       "hash": "4b739e335d228602f9920f3945682dbb44846ff6"
     },
     "com.naelstrof.jigglephysics": {
-      "version": "https://github.com/naelstrof/UnityJigglePhysics.git#v10.1.3",
+      "version": "https://github.com/naelstrof/UnityJigglePhysics.git#v10.2.1",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "06ac10ad6f87f68dc59867a61d2634030566fea9"
+      "hash": "072aec55ee021957841e74cd1293916f5847b25b"
     },
     "com.naelstrof.orbitcam": {
       "version": "https://github.com/naelstrof/com.naelstrof.orbitcam.git#v0.1.1",

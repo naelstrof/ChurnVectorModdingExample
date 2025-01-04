@@ -88,7 +88,7 @@
       "hash": "072aec55ee021957841e74cd1293916f5847b25b"
     },
     "com.naelstrof.orbitcam": {
-      "version": "https://github.com/naelstrof/com.naelstrof.orbitcam.git#v0.1.1",
+      "version": "https://github.com/naelstrof/com.naelstrof.orbitcam.git#v0.2.4",
       "depth": 0,
       "source": "git",
       "dependencies": {
@@ -97,7 +97,7 @@
         "com.naelstrof.unityscriptablesettings": "2.4.5",
         "com.unity.inputsystem": "1.7.0"
       },
-      "hash": "a89f8e2c11e80b74f0a3d14d4e9815e71686ad8f"
+      "hash": "3e92d5af01c3174cc420adaefac9518414251e0e"
     },
     "com.naelstrof.projectiles": {
       "version": "https://github.com/naelstrof/com.naelstrof.projectiles.git#v1.0.0",

@@ -13,3 +13,5 @@ EditorBuildSettings:
       type: 2}
     com.unity.localization.addressable-group-rules: {fileID: 11400000, guid: b0394acf3a2958b43a53ea6848a67e16,
       type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: c281d4ec57da5fd4ebe03d7b7fd9a9a3,
+      type: 2}
